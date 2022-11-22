@@ -1,5 +1,3 @@
-# Thesis_Project 
-
 # High-Risk patients Prediction in Emergency Department
 
 # Background
